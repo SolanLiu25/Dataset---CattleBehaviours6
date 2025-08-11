@@ -15,7 +15,9 @@ A dataset for recognising cattle behaviours using short video clips. This datase
 
 ## Annotation Format
 Each line in the annotation file follows the format:
+
 videos/train/000123.mp4  3
+
 where
 - video_path: Relative path to the video file
 - label: Integer representing the behaviour category
