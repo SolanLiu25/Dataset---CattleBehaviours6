@@ -1,13 +1,13 @@
-# Dataset---CattleBehaviours6
+# Dataset: CattleBehaviours6
 A dataset for recognising cattle behaviours using short video clips. This dataset is designed for research in computer vision and cattle behaviour analysis.
 
 ## Dataset Overview
 - Name: CattleBehaviors6
-<!-- Total Size: XX GB -->
 - Number of Samples: 1,593 video clips
 - Behaviours Covered: self-grooming, feeding, drinking, ruminating, standing-idle, chewing.
 - Modalities:
   - Video: RGB clips with duration of 3-10 seconds
+<!-- Total Size: XX GB -->
 
 <img width="1007" height="597" alt="image" src="https://github.com/user-attachments/assets/7424687c-95e4-4b9e-b4d7-52914612d6a0" />
 
