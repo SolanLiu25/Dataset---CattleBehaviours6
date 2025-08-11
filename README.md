@@ -3,8 +3,8 @@ A dataset for recognising cattle behaviours using short video clips. This datase
 
 ## Dataset Overview
 - Name: CattleBehaviors6
-- Number of Samples: 1,593 video clips
-- Behaviours Covered: self-grooming, feeding, drinking, ruminating, standing-idle, chewing.
+- Number of samples: 1,593 video clips
+- Behaviours covered: self-grooming, feeding, drinking, ruminating, standing-idle, chewing.
 - Modalities:
   - Video: RGB clips with duration of 3-10 seconds
 <!-- Total Size: XX GB -->
@@ -19,8 +19,8 @@ Each line in the annotation file follows the format:
 videos/train/000123.mp4  3
 
 where
-- video_path: Relative path to the video file
-- label: Integer representing the behaviour category
+- video_path: relative path to the video file
+- label: integer representing the behaviour category
 
 ## Download
 The download link will be available once the paper has been accepted.
