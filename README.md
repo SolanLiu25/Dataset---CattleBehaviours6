@@ -1,5 +1,5 @@
 # Dataset: CattleBehaviours6
-A dataset for recognising cattle behaviours using short video clips. This dataset is designed for research in computer vision and cattle behaviour analysis.
+A dataset for recognising cattle behaviours using short video clips. This dataset accompanies the paper "Cattle-CLIP: A Multimodal Framework for Cattle Behaviour Recognition".
 
 ## Dataset Overview
 - Name: CattleBehaviors6
